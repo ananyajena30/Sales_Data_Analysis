@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Product,Category,City,Quantity,Price
+101,2024-01-05,Laptop,Electronics,Delhi,2,50000
+102,2024-01-07,Phone,Electronics,Mumbai,3,20000
+103,2024-01-10,Shoes,Fashion,Jaipur,1,3000
+104,2024-02-12,T-shirt,Fashion,Delhi,4,800
+105,2024-02-15,Headphones,Electronics,Pune,2,1500
+106,2024-03-01,Laptop,Electronics,Bangalore,1,55000
+107,2024-03-05,Shoes,Fashion,Mumbai,2,3200
+108,2024-03-10,Watch,Accessories,Delhi,3,2500
+109,2024-04-02,Phone,Electronics,Jaipur,1,22000
+110,2024-04-08,T-shirt,Fashion,Pune,5,900
+111,2024-05-12,Laptop,Electronics,Delhi,1,60000
+112,2024-05-15,Watch,Accessories,Mumbai,2,2700
+113,2024-06-01,Shoes,Fashion,Bangalore,3,3500
+114,2024-06-10,Headphones,Electronics,Delhi,2,1800
+115,2024-07-05,Phone,Electronics,Pune,2,21000
