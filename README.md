@@ -3,19 +3,20 @@
  Objective
 Analyze sales data to find insights like top products, revenue trends, and city performance.
 
-🛠️ Tools Used
+##🛠️ Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-📊 Key Analysis
+##📊 Key Analysis
 - Total Revenue Calculation
 - Monthly Sales Trend
 - Top Selling Products
 - Sales by City
 - Category-wise Analysis
- 📈 Insights
+
+##📈 Insights
 - Electronics generate highest revenue
 - T-shirts are the most sold product
 - Delhi has highest sales
