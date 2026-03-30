@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Product,Category,City,Quantity,Price,Revenue,Month,Year,Profit
+101,2024-01-05,Laptop,Electronics,Delhi,2,50000,100000,1,2024,20000.0
+102,2024-01-07,Phone,Electronics,Mumbai,3,20000,60000,1,2024,12000.0
+103,2024-01-10,Shoes,Fashion,Jaipur,1,3000,3000,1,2024,600.0
+104,2024-02-12,T-shirt,Fashion,Delhi,4,800,3200,2,2024,640.0
+105,2024-02-15,Headphones,Electronics,Pune,2,1500,3000,2,2024,600.0
+106,2024-03-01,Laptop,Electronics,Bangalore,1,55000,55000,3,2024,11000.0
+107,2024-03-05,Shoes,Fashion,Mumbai,2,3200,6400,3,2024,1280.0
+108,2024-03-10,Watch,Accessories,Delhi,3,2500,7500,3,2024,1500.0
+109,2024-04-02,Phone,Electronics,Jaipur,1,22000,22000,4,2024,4400.0
+110,2024-04-08,T-shirt,Fashion,Pune,5,900,4500,4,2024,900.0
+111,2024-05-12,Laptop,Electronics,Delhi,1,60000,60000,5,2024,12000.0
+112,2024-05-15,Watch,Accessories,Mumbai,2,2700,5400,5,2024,1080.0
+113,2024-06-01,Shoes,Fashion,Bangalore,3,3500,10500,6,2024,2100.0
+114,2024-06-10,Headphones,Electronics,Delhi,2,1800,3600,6,2024,720.0
+115,2024-07-05,Phone,Electronics,Pune,2,21000,42000,7,2024,8400.0
